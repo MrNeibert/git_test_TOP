@@ -1,0 +1,2 @@
+Hello World!
+This is my first text edited and saved using Git! c:
